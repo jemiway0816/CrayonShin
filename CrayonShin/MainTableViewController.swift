@@ -11,6 +11,7 @@ class MainTableViewController: UITableViewController {
 
     var Shins:[Shin] = [
     
+        
     Shin(imageName: "IMG_01", detailImageName: "IMG01",shinWord: "心情不好"),
     Shin(imageName: "IMG_02", detailImageName: "IMG02",shinWord: "笑笑不說話"),
     Shin(imageName: "IMG_03", detailImageName: "IMG03",shinWord: "人就是這麼奇怪"),
